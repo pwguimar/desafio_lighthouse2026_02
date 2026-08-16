@@ -1,0 +1,9 @@
+channel,status,pedidos,faturamento
+ecommerce,cancelled,3425,97142496.46
+ecommerce,confirmed,5167,150779446.87
+ecommerce,draft,1733,49625155.68
+ecommerce,paid,24017,689666787.49
+pos,cancelled,1422,40275945.16
+pos,confirmed,2168,62846338.41
+pos,draft,718,20076524.96
+pos,paid,10348,296074506.77
