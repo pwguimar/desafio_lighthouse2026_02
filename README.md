@@ -22,6 +22,7 @@
 | **Notebook Analítico** | Análise completa das 7 questões, com validação cruzada Python × DuckDB | [Abrir no GitHub](https://github.com/pwguimar/desafio_lighthouse2026_02/blob/main/2026_02_LIghthouse_Dados%26AI.ipynb) |
 | **Dashboard Interativo** | Visualização dos principais resultados em interface amigável | [Abrir no Streamlit Cloud](https://desafiolighthouse202602.streamlit.app/) *ou* executar localmente |
 | **Schema SQL** | DDL das 24 tabelas gerado automaticamente | [`schema.sql`](https://github.com/pwguimar/desafio_lighthouse2026_02/blob/main/schema.sql) |
+| **Sumário Executivo** | Relatório em PDF com os principais insights para a diretoria | [`Sumário Executivo`](https://github.com/pwguimar/desafio_lighthouse2026_02/blob/main/SumarioExecutivo_LigthhouseDesafio2026.pdf) |
 
 ---
 
@@ -49,6 +50,7 @@ desafio_lighthouse2026_02/
 ├── schema.sql                            ← DDL das 24 tabelas (Questão 02)
 ├── lh_nautical.duckdb                    ← Banco DuckDB com 24 tabelas carregadas
 ├── 1-lh_nautical_csv.zip                 ← Dados originais do desafio fornecidos pela Indicium
+├── SumarioExecutivo_LigthhouseDesafio2026 ← Sumário Executivo do projeto em .pdf
 └── data_dashboard/                       ← CSVs agregados para o dashboard
     ├── kpi.csv
     ├── eda_canal_status.csv
