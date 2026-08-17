@@ -47,6 +47,7 @@ lh-nautical-indicium-2026/
 ├── README.md                             ← Este arquivo
 ├── schema.sql                            ← DDL das 24 tabelas (Questão 02)
 ├── lh_nautical.duckdb                    ← Banco DuckDB com 24 tabelas carregadas
+├── 1-lh_nautical_csv.zip                 ← Dados originais do desafio fornecidos pela Indicium
 └── data_dashboard/                       ← CSVs agregados para o dashboard
     ├── kpi.csv
     ├── eda_canal_status.csv
