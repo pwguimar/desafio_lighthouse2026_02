@@ -40,8 +40,9 @@ A LH Nautical é uma rede náutica com lojas físicas e e-commerce. O desafio pr
 ## Estrutura do Repositório
 
 ```
-lh-nautical-indicium-2026/
+desafio_lighthouse2026_02/
 ├── 2026_02_LIghthouse_Dados&AI.ipynb    ← Notebook principal com toda a análise
+├── 2026_02_LIghthouse_dados&ai.py       ← Notebook principal com toda a análise em Python
 ├── streamlit_app.py                      ← Dashboard interativo
 ├── requirements.txt                      ← Dependências do projeto
 ├── README.md                             ← Este arquivo
